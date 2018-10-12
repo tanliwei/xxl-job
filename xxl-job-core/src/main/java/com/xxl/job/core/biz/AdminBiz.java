@@ -11,7 +11,7 @@ import java.util.List;
  */
 public interface AdminBiz {
 
-    public static final String MAPPING = "/api";
+    public static final String MAPPING = "/xxl-job-admin/api";
 
 
     // ---------------------- callback ----------------------
